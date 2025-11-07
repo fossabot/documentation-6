@@ -1,4 +1,6 @@
 # HumHub Documentation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frocketshipcryptowalletrecovery%2Fdocumentation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frocketshipcryptowalletrecovery%2Fdocumentation?ref=badge_shield)
+
 
 >⚠️ Under construction.
 
@@ -110,3 +112,7 @@ The main navigation is managed in [docusaurus.config.js](docusaurus.config.js) w
 
 The sidebars of the different guides are managed in [sidebars.js](sidebars.js). 
 See [Docusaurus2 Sidebars](https://v2.docusaurus.io/docs/sidebar/) for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frocketshipcryptowalletrecovery%2Fdocumentation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frocketshipcryptowalletrecovery%2Fdocumentation?ref=badge_large)
